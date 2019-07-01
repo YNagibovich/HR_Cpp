@@ -1,2 +1,2 @@
-# HR_Cpp
-Test task for cpp developer
+# Тестовое задание для разработчика C++
+
